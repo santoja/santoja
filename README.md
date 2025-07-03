@@ -26,3 +26,5 @@ I'm always up for a chat! Connect with me on [LinkedIn](https://www.linkedin.com
 
 ### Fun Fact 🎉
 If I'm not in front of a screen, I'm probably jamming to some tunes or diving into the intricacies of hardware to build the ultimate PC setup.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santoja)](https://github.com/santoja)
