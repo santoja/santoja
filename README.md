@@ -1,28 +1,33 @@
-# Hi there! 👋 I'm Kaue Santoja
+# Hi, I'm Kaue Santoja 👋
 
 ### About Me
-Since 2006, I've been immersed in the tech world, primarily dancing through the realms of React and PHP.
+Since 2006, I've been building software professionally — 20 years deep in PHP, with solid experience in JavaScript along the way. These days I work primarily with Symfony, focused on backend architecture and systems that need to hold up under real-world load, including some time spent keeping high-traffic systems stable under pressure. Along the way, I've also picked up a few years of experience managing teams, which keeps me equally comfortable in the code and in the planning around it.
 
-### What Fires Me Up 🔥
-Challenges are my fuel, and exploring new technologies is my jam.
+### Current Role
+Senior Backend Engineer, working mainly in PHP/Symfony — designing and building backend systems, APIs, and the infrastructure around them, with a focus on scalability for high-traffic environments.
 
-### Current Role 🚀
-I've been donning the Senior Engineer hat lately, diving deep into React and PHP
+### Tech Stack
+- **Languages:** PHP, JavaScript
+- **Backend:** Symfony
+- **Also comfortable with:** React (from earlier projects, still happy to jump back in when needed)
 
-### Lessons Learned 🌟
-One memorable lesson from my past roles: always double-check every facet of a project. Even a specialist can trip up (yep, even yours truly!).
+### What Drives Me
+I like a good challenge, and I like picking up new technologies when they solve a real problem — not just because they're trendy.
 
-### Education 📚
-I pursued a technical high school diploma and later graduated with a degree in "Tecnologia em Software Livre" (Translation: Technology in Free Software). Embracing open-source principles was a cornerstone of my education.
+### Lessons Learned
+One thing 20 years in this field has taught me: always double-check every facet of a project. Even after two decades, it's easy to trip up — staying humble about that keeps the work honest.
 
-### Influential Encounters 🌍
-I had the incredible opportunity to be part of the inaugural Open Source Week in Americana, where I rubbed shoulders with luminaries in the open-source community, including the maintainer of Slackware Linux.
+### Education
+Technical high school diploma, followed by a degree in *Tecnologia em Software Livre* (Free Software Technology). Open-source principles were baked into my education from day one.
 
-### Beyond Tech 🎮🎶
-When I unplug, you'll find me in the virtual realms of video games or belting out tunes. I'm also a PC building aficionado and have a soft spot for all things open-source.
+### Influential Encounters
+I was part of the inaugural Open Source Week in Americana, where I got to meet several well-known figures in the open-source community, including the maintainer of Slackware Linux.
 
-### Let's Connect! 🌐
-I'm always up for a chat! Connect with me on [LinkedIn](https://www.linkedin.com/in/santoja/) and let's share thoughts on the latest tech trends or discuss the best RPGs out there.
+### Pinned Projects
+*(A few projects I'm proud of — check my pinned repos below for the latest.)*
 
-### Fun Fact 🎉
-If I'm not in front of a screen, I'm probably jamming to some tunes or diving into the intricacies of hardware to build the ultimate PC setup.
+### Beyond Tech
+Outside of work, I'm usually gaming, listening to music, or tinkering with PC hardware to optimize my setup — running Linux on pretty much everything I touch, work and personal alike. I've got a genuine soft spot for open-source software of all kinds.
+
+### Let's Connect
+Open to interesting PHP/Symfony work and good conversations. Find me on [LinkedIn](https://www.linkedin.com/in/santoja/) — always up for talking tech, backend architecture, or the best RPGs out there.
