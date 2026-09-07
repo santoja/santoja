@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Kaue Santoja
 
 ### About Me
-Since 2006, I've been immersed in the tech world, primarily dancing through the realms of React, PHP, and GoLang.
+Since 2006, I've been immersed in the tech world, primarily dancing through the realms of React and PHP.
 
 ### What Fires Me Up 🔥
 Challenges are my fuel, and exploring new technologies is my jam.
 
 ### Current Role 🚀
-I've been donning the Senior Engineer hat lately, diving deep into React, PHP, and enjoying the twists and turns of GoLang.
+I've been donning the Senior Engineer hat lately, diving deep into React and PHP
 
 ### Lessons Learned 🌟
 One memorable lesson from my past roles: always double-check every facet of a project. Even a specialist can trip up (yep, even yours truly!).
